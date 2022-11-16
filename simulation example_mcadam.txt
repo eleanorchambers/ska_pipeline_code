@@ -1,0 +1,46 @@
+get-geo
+0
+0
+0
+0
+512
+cellsize
+get-tel
+d
+f
+ska_mid_133_5bii.tel
+t \
+get-dir
+.
+\
+get-cluster
+no
+redshift
+g 
+1.051
+5.4905
+0.3081
+1.177
+no
+Ytot_mean
+thetas_mean
+x0_mean
+y0_mean
+make-clus
+n
+y
+make-ap
+N
+make-poin-obs
+01 00 00.00
+-30 00 00.00
+-HA
+HA
+integration_time
+no
+days
+n
+y
+SIM_OBS.fits
+name
+J
